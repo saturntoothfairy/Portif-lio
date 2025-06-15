@@ -1,1 +1,3 @@
-# Portif-lio
+# Portifólio
+
+Bem-vindo(a) ao meu portfólio! Sou uma entusiasta da tecnologia e estudante do primeiro período de Ciência da Computação na PUCPR. Desde que mergulhei no universo da programação, tenho me dedicado a transformar ideias em código e a explorar as infinitas possibilidades que a computação oferece. Neste espaço, você encontrará os meus primeiros projetos, experimentos e o que venho aprendendo nessa jornada. Cada linha de código aqui representa um passo na minha evolução e a paixão por resolver problemas. Estou animada para continuar crescendo, aprendendo e construindo o futuro da tecnologia. Sinta-se à vontade para explorar e conhecer um pouco mais sobre o meu trabalho
